@@ -1,1 +1,1 @@
-0-preprocessor runs C file through the preprocessor
+0x00-hello_world dir contains files about C hello world
