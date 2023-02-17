@@ -4,10 +4,9 @@
 #include <stdio.h>
 /* betty style doc for function main goes there */
 /**
- * the main function
- * prints whether n
- * is positive or negative
- * or zero
+ *Description: print result as positive negative
+ *main function: it has a void parameter
+ *main return: the return value is 0
  */
 int main(void)
 {
