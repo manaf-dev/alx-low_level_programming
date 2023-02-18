@@ -3,10 +3,12 @@
 /* more headers goes there */
 #include <stdio.h>
 /* betty style doc for function main goes there */
+
 /**
- * *main - it has a void parameter and contains the code
- *@return: returns the value of zero
- *Description: print result as positive negative
+ * main - Check if n is positive or negative
+ * Return: 0 is returned by main function
+ *
+ * Description: Print result as positive negative
  */
 int main(void)
 {
