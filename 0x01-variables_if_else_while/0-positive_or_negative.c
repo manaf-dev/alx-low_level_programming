@@ -5,8 +5,8 @@
 /* betty style doc for function main goes there */
 /**
  *Description: print result as positive negative
- *main function: it has a void parameter
- *main return: the return value is 0
+ *main: it has a void parameter
+ *return: the return value is 0
  */
 int main(void)
 {
