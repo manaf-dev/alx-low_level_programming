@@ -7,7 +7,7 @@
  * *main - it has a void parameter and contains the code
  *@return: returns the value of zero
  *Description: print result as positive negative
- * /
+ */
 int main(void)
 {
 	int n;
