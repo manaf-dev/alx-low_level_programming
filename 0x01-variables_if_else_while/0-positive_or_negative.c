@@ -4,10 +4,10 @@
 #include <stdio.h>
 /* betty style doc for function main goes there */
 /**
+ * *main - it has a void parameter and contains the code
+ *@return: returns the value of zero
  *Description: print result as positive negative
- *main: it has a void parameter
- *return: the return value is 0
- */
+ * /
 int main(void)
 {
 	int n;
